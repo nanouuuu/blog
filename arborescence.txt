@@ -1,0 +1,20 @@
+<?php
+/*
+blog/
+    - template.php
+    sql/
+    assets/
+        css/
+            - style.css
+        js/
+            - script.js
+        img/
+        img_articles
+        fonts
+    inc
+        - init.inc.php
+        - fonctions.inc.php
+        - header.inc.php
+        - nav.inc.php
+        - footer.inc.php
+*/
